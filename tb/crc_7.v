@@ -1,3 +1,5 @@
+//this code is generate automatically by https://www.ghsi.de/CRC/index.php?
+//for compare.
 module crc_7(
     input    clk, rst,
     input    crc_en,
